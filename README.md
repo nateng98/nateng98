@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 My name is Nathan. 
-I’m a 4th-year Computer Science student with a passion for software development. I'm diving deep into both front-end and back-end technologies, aiming to become a versatile and proficient software developer. My interests include developing applications for mobile, Windows, and web platforms. I'm excited to contribute to open-source projects, learn new skills, and build innovative applications. Let's connect and create something amazing together! 🚀
+
+I’m a Software Developer with experience building web, mobile, and system level applications, with a strong interest in creating scalable and impactful products. I’ve worked on projects ranging from full stack development and embedded systems to research-driven software and AI-related initiatives, which has shaped how I approach problem solving and engineering.
+
+I enjoy turning ideas into real world applications, continuously learning new technologies, and building projects that blend clean architecture with meaningful user experience. Always open to collaboration and exciting new challenges. 🚀
 
 ### My Techstack:
 <div>
